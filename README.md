@@ -1,6 +1,6 @@
 # NeuroGlow
 
-NeuroGlow is made for fun, as a lightweight, interactive desktop visualization tool for neural activity, built with Python, moderngl, and imgui. Its not meant to be serious or scientific just a fun toy & project.
+NeuroGlow is made for fun, as a lightweight, interactive desktop visualization tool for neural activity, built with Python, moderngl. Its not meant to be serious or scientific just a fun toy & project.
 
 ## Features
 
